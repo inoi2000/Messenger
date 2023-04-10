@@ -1,0 +1,97 @@
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\bin\Debug\TopMessenger.exe.config
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\bin\Debug\TopMessenger.exe
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\bin\Debug\TopMessenger.pdb
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\bin\Debug\EntityFramework.dll
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\bin\Debug\FontAwesome.WPF.dll
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\bin\Debug\EntityFramework.xml
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\bin\Debug\FontAwesome.WPF.xml
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\TopMessenger.csproj.AssemblyReference.cache
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\TopMessenger.csproj.SuggestedBindingRedirects.cache
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\Views\MainWindow.g.cs
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\App.g.cs
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\TopMessenger_MarkupCompile.cache
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\TopMessenger_MarkupCompile.lref
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\Views\MainWindow.baml
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\TopMessenger.g.resources
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\TopMessenger.Properties.Resources.resources
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\TopMessenger.csproj.GenerateResource.cache
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\TopMessenger.csproj.CoreCompileInputs.cache
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\TopMessenger.csproj.CopyComplete
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\TopMessenger.exe
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\TopMessenger.pdb
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\TopMessenger.Migrations.initial.resources
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\Infrastructure\Resources\CustomTextBox.baml
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\App.baml
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\Infrastructure\Resources\WindowsStyle.baml
+C:\Users\feday\source\repos\TopMessenger\TopMessenger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\bin\Debug\TopMessenger.exe.config
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\bin\Debug\TopMessenger.exe
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\bin\Debug\TopMessenger.pdb
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\bin\Debug\EntityFramework.dll
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\bin\Debug\FontAwesome.WPF.dll
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\bin\Debug\EntityFramework.xml
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\bin\Debug\FontAwesome.WPF.xml
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\TopMessenger.csproj.AssemblyReference.cache
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\TopMessenger.csproj.SuggestedBindingRedirects.cache
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\Infrastructure\Resources\CustomTextBox.baml
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\Infrastructure\Resources\WindowsStyle.baml
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\Views\MainWindow.g.cs
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\App.g.cs
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\TopMessenger_MarkupCompile.cache
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\TopMessenger_MarkupCompile.lref
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\App.baml
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\Views\MainWindow.baml
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\TopMessenger.g.resources
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\TopMessenger.Migrations.initial.resources
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\TopMessenger.Properties.Resources.resources
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\TopMessenger.csproj.GenerateResource.cache
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\TopMessenger.csproj.CoreCompileInputs.cache
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\TopMessenger.csproj.CopyComplete
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\TopMessenger.exe
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\TopMessenger.pdb
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\Infrastructure\Resources\FriendListStyle.baml
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\TopMessenger.Migrations.updateUserProperty.resources
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\TopMessenger.Migrations.updateUserProperty2.resources
+C:\Users\misha\Downloads\TopMessenger (1)\TopMessenger\TopMessenger\obj\Debug\Infrastructure\Resources\ChatStyle.baml
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\bin\Debug\TopMessenger.exe.config
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\bin\Debug\TopMessenger.exe
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\bin\Debug\TopMessenger.pdb
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\bin\Debug\EntityFramework.dll
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\bin\Debug\FontAwesome.WPF.dll
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\bin\Debug\EntityFramework.xml
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\bin\Debug\FontAwesome.WPF.xml
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\TopMessenger.csproj.AssemblyReference.cache
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\TopMessenger.csproj.SuggestedBindingRedirects.cache
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\Infrastructure\Resources\ChatStyle.baml
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\Infrastructure\Resources\CustomTextBox.baml
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\Infrastructure\Resources\FriendListStyle.baml
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\Infrastructure\Resources\WindowsStyle.baml
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\Views\MainWindow.g.cs
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\App.g.cs
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\TopMessenger_MarkupCompile.cache
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\TopMessenger_MarkupCompile.lref
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\App.baml
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\Views\MainWindow.baml
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\TopMessenger.g.resources
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\TopMessenger.Migrations.initial.resources
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\TopMessenger.Migrations.updateUserProperty.resources
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\TopMessenger.Migrations.updateUserProperty2.resources
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\TopMessenger.Properties.Resources.resources
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\TopMessenger.csproj.GenerateResource.cache
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\TopMessenger.csproj.CoreCompileInputs.cache
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\TopMessenger.csproj.CopyComplete
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\TopMessenger.exe
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\TopMessenger.pdb
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\Views\AddFriendWindow.g.cs
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\Views\AddFriendWindow.baml
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\Infrastructure\Resources\TopBorderButtonStyle.baml
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\Infrastructure\Resources\AddFriendBtnStyle.baml
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\Infrastructure\Resources\UsersListViewStyle.baml
