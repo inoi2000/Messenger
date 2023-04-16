@@ -15,15 +15,14 @@ using System.Windows.Shapes;
 namespace TopMessenger.Views
 {
     /// <summary>
-    /// Логика взаимодействия для AddFriendWindow.xaml
+    /// Логика взаимодействия для AuthorizationWindow.xaml
     /// </summary>
-    public partial class AddFriendWindow : Window
+    public partial class AuthorizationWindow : Window
     {
-        public AddFriendWindow()
+        public AuthorizationWindow()
         {
             InitializeComponent();
         }
-
         private void Border_MouseDown(object sender, MouseButtonEventArgs e)
         {
             if (e.LeftButton == MouseButtonState.Pressed)
