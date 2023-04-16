@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\App.xaml
-9-1180829099
+10-2041336223
 
-241009207172
+26-221532117
 172047456613
-Infrastructure\Resources\AddFriendBtnStyle.xaml;Infrastructure\Resources\ChatStyle.xaml;Infrastructure\Resources\CustomTextBox.xaml;Infrastructure\Resources\FriendListStyle.xaml;Infrastructure\Resources\TopBorderButtonStyle.xaml;Infrastructure\Resources\UsersListViewStyle.xaml;Infrastructure\Resources\WindowsStyle.xaml;Views\AddFriendWindow.xaml;Views\MainWindow.xaml;
+Infrastructure\Resources\AddFriendBtnStyle.xaml;Infrastructure\Resources\ChatStyle.xaml;Infrastructure\Resources\CustomTextBox.xaml;Infrastructure\Resources\FriendListStyle.xaml;Infrastructure\Resources\BorderTopWindow.xaml;Infrastructure\Resources\UsersListViewStyle.xaml;Infrastructure\Resources\WindowsStyle.xaml;Views\AddFriendWindow.xaml;Views\AuthorizationWindow.xaml;Views\MainWindow.xaml;
 
 True
 

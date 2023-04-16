@@ -113,7 +113,7 @@ namespace TopMessenger.Infrastructure.Services
                 res.Add(new UserAddFriendShell
                 {
                     Id= u.Id,
-                    FirestName = u.FirstName,
+                    FirstName = u.FirstName,
                     LastName= u.LastName,
                     Photo = u.Photo,
                     IsFriend = mainUser.FriendLists.Any(fl => fl.Friends.Any(f => f.Id == u.Id)),

@@ -9,7 +9,7 @@ namespace TopMessenger.ModelShells
     public class UserAddFriendShell
     {
         public int Id { get; set; }
-        public string FirestName { get; set; }
+        public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Photo { get; set; }
         public bool IsFriend { get; set; }

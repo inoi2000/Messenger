@@ -92,6 +92,8 @@ C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\o
 C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\TopMessenger.pdb
 C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\Views\AddFriendWindow.g.cs
 C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\Views\AddFriendWindow.baml
-C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\Infrastructure\Resources\TopBorderButtonStyle.baml
 C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\Infrastructure\Resources\AddFriendBtnStyle.baml
 C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\Infrastructure\Resources\UsersListViewStyle.baml
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\Infrastructure\Resources\BorderTopWindow.baml
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\Views\AuthorizationWindow.g.cs
+C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\Views\AuthorizationWindow.baml

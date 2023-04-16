@@ -11,7 +11,7 @@
                 <ResourceDictionary Source="Infrastructure/Resources/WindowsStyle.xaml"></ResourceDictionary>
                 <ResourceDictionary Source="Infrastructure/Resources/FriendListStyle.xaml"></ResourceDictionary>
                 <ResourceDictionary Source="Infrastructure/Resources/ChatStyle.xaml"></ResourceDictionary>
-                <ResourceDictionary Source="Infrastructure/Resources/TopBorderButtonStyle.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="Infrastructure/Resources/BorderTopWindow.xaml"></ResourceDictionary>
                 <ResourceDictionary Source="Infrastructure/Resources/AddFriendBtnStyle.xaml"></ResourceDictionary>
                 <ResourceDictionary Source="Infrastructure/Resources/UsersListViewStyle.xaml"></ResourceDictionary>
             </ResourceDictionary.MergedDictionaries>
