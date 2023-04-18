@@ -134,3 +134,5 @@ C:\Users\misha\Documents\ШАГ\projects\Labs\Parser\Messenger\obj\Debug\TopMess
 C:\Users\misha\Documents\ШАГ\projects\Labs\Parser\Messenger\obj\Debug\TopMessenger.csproj.CoreCompileInputs.cache
 C:\Users\misha\Documents\ШАГ\projects\Labs\Parser\Messenger\obj\Debug\TopMessenger.csproj.CopyComplete
 C:\Users\misha\Documents\ШАГ\projects\Labs\Parser\Messenger\obj\Debug\Infrastructure\Resources\GradientBtnStyle.baml
+C:\Users\misha\Documents\ШАГ\projects\Labs\Parser\Messenger\obj\Debug\Views\RegistrationWindow.baml
+C:\Users\misha\Documents\ШАГ\projects\Labs\Parser\Messenger\obj\Debug\Views\RegistrationWindow.g.cs
