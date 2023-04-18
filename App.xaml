@@ -14,6 +14,7 @@
                 <ResourceDictionary Source="Infrastructure/Resources/BorderTopWindow.xaml"></ResourceDictionary>
                 <ResourceDictionary Source="Infrastructure/Resources/AddFriendBtnStyle.xaml"></ResourceDictionary>
                 <ResourceDictionary Source="Infrastructure/Resources/UsersListViewStyle.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="Infrastructure/Resources/GradientBtnStyle.xaml"></ResourceDictionary>
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Application.Resources>
