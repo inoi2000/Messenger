@@ -10,6 +10,7 @@ using System.Windows;
 using TopMessenger.Infrastructure.Services;
 using TopMessenger.Models;
 using TopMessenger.ViewModels.Commands;
+using TopMessenger.Views;
 
 namespace TopMessenger.ViewModels
 {
@@ -75,7 +76,8 @@ namespace TopMessenger.ViewModels
         private UserService userService;
         public MainViewModel()
         {
-            Chat += ChatWU; 
+            Chat += ChatWU;
+            new RegistrationWindow().ShowDialog();
             LoadMeth().GetAwaiter();
         }
 
