@@ -48,12 +48,16 @@
             <Button Margin="50" Style="{StaticResource AddFriendBtn}">
                 
             </Button>
-            <ListView Width="360" Height="400"
+            <ListView Width="360" Height="200"
                       ItemContainerStyle="{StaticResource UsersListViewItem}"
                       ItemsSource="{Binding AllUsers}"
                       >
                 
             </ListView>
+            <Button Width="250" Height="200"
+                    Style="{StaticResource GradientBtn}">
+                
+            </Button>
         </StackPanel>
     </DockPanel>
 </Window>
