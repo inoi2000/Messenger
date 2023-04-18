@@ -40,56 +40,59 @@
                 </MenuItem>
             </MenuItem>
         </Menu>
-        <StackPanel>
-            <TextBox Margin="15" Text="{Binding FirstName}"></TextBox>
-            <Label Margin="10" Content="Имя введено неккоректно" 
+        <Grid>
+            <Button Style="{StaticResource GradientBtn2}" Panel.ZIndex="0"/>
+            <StackPanel Panel.ZIndex="1">
+                <TextBox Margin="15" Text="{Binding FirstName}"></TextBox>
+                <Label Margin="10" Content="Имя введено неккоректно" 
                    Foreground="Red"
                    HorizontalAlignment="Center"
                    >
-                <Label.Style>
-                    <Style TargetType="Label">
-                        <Setter Property="Visibility" Value="Collapsed" />
-                        <Style.Triggers>
-                            <DataTrigger Binding="{Binding IsFirstNameValid}" Value="False">
-                                <Setter Property="Visibility" Value="Visible" />
-                            </DataTrigger>
-                        </Style.Triggers>
-                    </Style>
+                    <Label.Style>
+                        <Style TargetType="Label">
+                            <Setter Property="Visibility" Value="Collapsed" />
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsFirstNameValid}" Value="False">
+                                    <Setter Property="Visibility" Value="Visible" />
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
 
-                </Label.Style>
-            </Label>
+                    </Label.Style>
+                </Label>
 
-            <TextBox Margin="15" Text="{Binding Email}"></TextBox>
-            <Label Margin="10" Content="Емейл не верный"  Foreground="Red"
+                <TextBox Margin="15" Text="{Binding Email}"></TextBox>
+                <Label Margin="10" Content="Емейл не верный"  Foreground="Red"
                    HorizontalAlignment="Center">
-                <Label.Style>
-                    <Style TargetType="Label">
-                        <Setter Property="Visibility" Value="Collapsed" />
-                        <Style.Triggers>
-                            <DataTrigger Binding="{Binding IsEmailValid}" Value="False">
-                                <Setter Property="Visibility" Value="Visible" />
-                            </DataTrigger>
-                        </Style.Triggers>
-                    </Style>
+                    <Label.Style>
+                        <Style TargetType="Label">
+                            <Setter Property="Visibility" Value="Collapsed" />
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsEmailValid}" Value="False">
+                                    <Setter Property="Visibility" Value="Visible" />
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
 
-                </Label.Style>
-            </Label>
+                    </Label.Style>
+                </Label>
 
-            <TextBox Margin="15"></TextBox>
-            <Label Margin="10"></Label>
+                <TextBox Margin="15"></TextBox>
+                <Label Margin="10"></Label>
 
-            <TextBox Margin="15"></TextBox>
-            <Label Margin="10"></Label>
+                <TextBox Margin="15"></TextBox>
+                <Label Margin="10"></Label>
 
-            <TextBox Margin="15"></TextBox>
-            <Label Margin="10"></Label>
+                <TextBox Margin="15"></TextBox>
+                <Label Margin="10"></Label>
 
-            <TextBox Margin="15"></TextBox>
-            <Label Margin="10"></Label>
+                <TextBox Margin="15"></TextBox>
+                <Label Margin="10"></Label>
 
-            <Button Width="150" Height="50"
+                <Button Width="150" Height="50"
                     Command="{Binding RegistrationCommand}"
                     >Register</Button>
-        </StackPanel>
+            </StackPanel>
+        </Grid>
     </DockPanel>
 </Window>

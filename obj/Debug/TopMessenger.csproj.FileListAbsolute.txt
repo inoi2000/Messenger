@@ -136,3 +136,5 @@ C:\Users\misha\Documents\ШАГ\projects\Labs\Parser\Messenger\obj\Debug\TopMess
 C:\Users\misha\Documents\ШАГ\projects\Labs\Parser\Messenger\obj\Debug\Infrastructure\Resources\GradientBtnStyle.baml
 C:\Users\misha\Documents\ШАГ\projects\Labs\Parser\Messenger\obj\Debug\Views\RegistrationWindow.baml
 C:\Users\misha\Documents\ШАГ\projects\Labs\Parser\Messenger\obj\Debug\Views\RegistrationWindow.g.cs
+C:\Users\misha\Documents\ШАГ\projects\Labs\Parser\Messenger\obj\Debug\Infrastructure\Resources\GradientStackPanelStyle.baml
+C:\Users\misha\Documents\ШАГ\projects\Labs\Parser\Messenger\obj\Debug\Infrastructure\Resources\GradientBtn2Style.baml
