@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\obj\Debug\
+C:\Users\misha\Documents\ШАГ\projects\Labs\Parser\Messenger\obj\Debug\
 TopMessenger
 none
 false
 DEBUG;TRACE
-C:\Users\misha\Documents\ШАГ\projects\Homework_cs\TopMessenger\TopMessenger\App.xaml
+C:\Users\misha\Documents\ШАГ\projects\Labs\Parser\Messenger\App.xaml
 10-2041336223
 
 25-2143310238
-172047456613
+17-2116147146
 Infrastructure\Resources\AddFriendBtnStyle.xaml;Infrastructure\Resources\ChatStyle.xaml;Infrastructure\Resources\CustomTextBox.xaml;Infrastructure\Resources\FriendListStyle.xaml;Infrastructure\Resources\BorderTopWindow.xaml;Infrastructure\Resources\UsersListViewStyle.xaml;Infrastructure\Resources\WindowsStyle.xaml;Views\AddFriendWindow.xaml;Views\AuthorizationWindow.xaml;Views\MainWindow.xaml;
 
 False
