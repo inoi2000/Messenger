@@ -77,7 +77,7 @@ namespace TopMessenger.ViewModels
         public MainViewModel()
         {
             Chat += ChatWU;
-            new RegistrationWindow().ShowDialog();
+            //new RegistrationWindow().ShowDialog();
             LoadMeth().GetAwaiter();
         }
 
